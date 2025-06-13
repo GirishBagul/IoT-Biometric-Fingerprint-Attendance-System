@@ -1,0 +1,26 @@
+# Arduino-related
+*.ino.*
+*.cpp.*
+*.h.*
+*.elf
+*.bin
+*.hex
+*.eep
+*.dep
+*.d
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+*.idea/
+*.swp
+*.bak
+*.tmp
+*.sublime-project
+*.sublime-workspace
